@@ -6,7 +6,7 @@ My solutions to programming exercises in Programming Abstractions in C++, the co
 - Chapter 2. Data Types in C++
 - Chapter 3. Libraries and Interfaces
 - Chapter 4. Using Abstract Data Types
-- Chapter 5. Introduction to Recursion
+- [Chapter 5. Introduction to Recursion](./05-introduction-to-recursion)
 - Chapter 6. Recursive Procedures
 - Chapter 7. Backtracking Algorithms
 - Chapter 8. Algorithmic Analysis
